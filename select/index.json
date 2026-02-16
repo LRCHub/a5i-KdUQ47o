@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Next Semester",
+  "base_artist": "twenty one pilots",
+  "createdAt": "2026-02-16T09:03:21.914427Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Next Semester",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/01_Next_Semester_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Next Semester",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/02_Next_Semester_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Next Semester",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/03_Next_Semester_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Twenty_one_pilots-next_semester_(drum_cover)",
+      "artist": "Skyysky12",
+      "has_synced": false,
+      "path": "select/04_Twenty_one_pilots-next_semester_(drum_cover)_Skyysky12.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Next Semester",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/05_Next_Semester_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Next Semester",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/06_Next_Semester_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Next Semester",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/07_Next_Semester_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Next Semester",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/08_Next_Semester_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Next Semester (Atmos Mix)",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/09_Next_Semester_(Atmos_Mix)_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "twenty one pilots - Next Semester",
+      "artist": "twenty one pilots -",
+      "has_synced": true,
+      "path": "select/10_twenty_one_pilots_-_Next_Semester_twenty_one_pilots_-.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Twenty One Pilots - Next Semester (Official Video)",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/11_Twenty_One_Pilots_-_Next_Semester_(Official_Video)_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Next Semester - twenty one pilots",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/12_Next_Semester_-_twenty_one_pilots_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Next Semester",
+      "artist": "twenty one pilots",
+      "has_synced": false,
+      "path": "select/pl_01_Next_Semester_twenty_one_pilots.txt"
+    }
+  ]
+}
