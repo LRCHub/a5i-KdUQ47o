@@ -1,0 +1,59 @@
+# twenty one pilots – Next Semester
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+No-no-no, no-no-no
+No-no-no-no-no, no-no-no-no-no
+No-no-no-no-no, no-no-no-no
+
+Stand up straight now (ooh), can't break down (ooh)
+Graduate now (ooh)
+I don't wanna be here, I don't wanna be here
+
+It's a taste test (ooh) of what I hate less (ooh)
+Can you die of anxiousness? (Ooh)
+I don't wanna be here, I don't wanna be here
+What's about to happen? What's about to happen?
+
+I remember, I remember certain things
+What I was wearing, the yellow dashes in the street
+I prayed those lights would take me home
+Then I heard, "Hey, kid, get out of the road!" (Yeah)
+
+(Ooh, ooh, ooh)
+I don't wanna be here, I don't wanna be here
+
+Can't feel my legs (ooh), I might suffocate (ooh)
+There's a pressure in my chest (ooh)
+I don't wanna be here, I don't wanna be here
+What's about to happen? What's about to happen?
+
+I remember, I remember certain things
+What I was wearing, the yellow dashes in the street
+I prayed those lights would take me home
+Then I heard, "Hey, kid, get out of the road!"
+
+Oh-whoa-oh, oh-whoa-oh
+Oh-whoa-oh, oh-whoa-oh
+Can't change what you've done
+Start fresh next semester
+
+I remember, I remember certain things
+What I was wearing, the yellow dashes in the street
+I prayed those lights would take me home
+Then I heard, "Hey, kid, get out of the road!"
+
+Oh-whoa-oh (and then he slowed down), oh-whoa-oh
+Oh-whoa-oh (and rolled down his window), oh-whoa-oh
+(And he said) "Can't change what you've done
+Start fresh next semester"
+
+It's a taste test of what I hate less
+I don't wanna be here, start fresh with a new year
+
+Oh-ah-oh, oh-oh-oh
+Oh-ah-oh, oh-oh-oh
+Can't change what you've done
+Start fresh next semester
+```
